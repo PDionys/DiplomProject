@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cat</folder>
+	<filename>7261a3561d01801e.jpg</filename>
+	<path>D:\DiplomProject\img\Dataset\train\Cat\7261a3561d01801e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>979</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>288</ymin>
+			<xmax>539</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+</annotation>
